@@ -57,7 +57,7 @@ public class item1 {
 				System.out.println("Você perdeu!");
 			}
 			
-			System.out.print("Digite 0 para sair ou qualquer outro n�mero para continuar: ");
+			System.out.print("Digite 0 para sair ou qualquer outro número para continuar: ");
 			if (sc.nextInt() == 0) break;
 		}
 		
